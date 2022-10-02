@@ -1,9 +1,0 @@
-.bg1{
-    background-image: url(https://assets-global.website-files.com/6257f25…/6257f25…_Subtract.svg),linear-gradient(180deg,#9269d1 28%,rgba(118,79,177,.92));
-    background-position: 50% 100%,0 0;
-
-background-image: url(https://assets-global.website-files.com/6257f25…/6257f25…_div-bot2.svg),url(https://assets-global.website-files.com/6257f25…/6257f25…_lines.svg),radial-gradient(circle farthest-corner at 100% 50%,#8a3ffc,#6929c4 68%);
-    background-position: 50% 101%,50% 100%,0 0;
-background-size: 101%,cover,auto;
-    background-repeat: no-repeat,no-repeat,repeat;
-}
